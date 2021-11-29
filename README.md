@@ -1,2 +1,2 @@
 # rss-feedparser
-simple rss feed parser on terminal using python
+simple rss feed parser of reddit on terminal using python
